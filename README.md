@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vedanttheprohacker1
+- 👋 Hi, I’m @Gideon
 - 👀 I’m interested in ai/ml, philosophy and politics
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate with FrontEnd and BackEnd developers
+
 
 <!---
 Vedanttheprohacker1/Vedanttheprohacker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
